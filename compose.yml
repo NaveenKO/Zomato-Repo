@@ -1,8 +1,1 @@
----
-version: "3"
-services:
-   project:
-      container_name: zomato
-      image: naveen3032/zomato:zomato
-      ports:
-        - "9000:9000"
+
