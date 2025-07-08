@@ -5,5 +5,5 @@ services:
       container_name: zomato
       image: naveen3032/zomato1:zomato
       ports:
-        - "9000:9000"
+        - "9000:3000"
 
